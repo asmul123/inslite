@@ -1,0 +1,4 @@
+php_flag engine on
+<Files .>
+Allow from all
+</Files>
